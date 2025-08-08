@@ -6426,6 +6426,7 @@ dependencies = [
  "reqwest 0.12.19",
  "revolt-coalesced",
  "revolt-config",
+ "revolt-database",
  "revolt-models",
  "revolt-result",
  "serde",
